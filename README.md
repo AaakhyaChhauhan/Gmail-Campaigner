@@ -59,4 +59,4 @@ PRs are welcome! Open an issue for suggestions or bug reports.
 
 ---
 <img alt="Made with love" src="https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F-ff69b4.svg">
-Made with ❤️ by [SoraPewnaldo](https://github.com/SoraPewnaldo)
+ by [SoraPewnaldo](https://github.com/SoraPewnaldo)
