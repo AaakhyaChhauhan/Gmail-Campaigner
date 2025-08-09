@@ -12,7 +12,7 @@
   <a href="https://github.com/SoraPewnaldo/Gmail-Campaigner/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/SoraPewnaldo/Gmail-Campaigner?style=social"></a>
   <a href="https://github.com/SoraPewnaldo/Gmail-Campaigner/issues"><img alt="Issues" src="https://img.shields.io/github/issues/SoraPewnaldo/Gmail-Campaigner"></a>
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg">
-  <img alt="Made with love" src="https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F-ff69b4.svg">
+  
 </p>
 
 ---
@@ -58,4 +58,5 @@ MIT License - see [LICENSE](LICENSE) for details.
 PRs are welcome! Open an issue for suggestions or bug reports.
 
 ---
+<img alt="Made with love" src="https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F-ff69b4.svg">
 Made with ❤️ by [SoraPewnaldo](https://github.com/SoraPewnaldo)
